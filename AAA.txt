@@ -1,0 +1,11 @@
+		Universidad Nacional De ingenieria 
+				Fec
+							25-08-2021
+		Tema: Proyecto de Loteria en C
+		Grupo: 1M3-C0
+
+		Integrantes: 	Jose Zelaya      2021-0056U
+				Leonel Guerrero  2021-0188U
+				Jonathan Saravia 2020-0501U
+
+		Docente: Ing.Nelson Barrios
